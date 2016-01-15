@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="sinch_grey">#636363</color>
+    <color name="sinch_light_grey">#D9D9D9</color>
+    <color name="sinch_medium_grey">#B0B0B0</color>
+    <color name="sinch_purple">#FF63029D</color>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/colors_sinchtheme.xml -->
+    <eat-comment/>
+    <color name="sinchtheme_color">#63029d</color>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">20dp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Sinch Verification</string>
+    <string name="entercode">Please enter the code you received</string>
+    <string name="enterphonenumber">Enter your phone number</string>
+    <string name="failed">Verification failed</string>
+    <string name="flashcalling">We\'re requesting a flash call to</string>
+    <string name="inprogress">Verification in\nprogress</string>
+    <string name="selectcountry">Select country</string>
+    <string name="sending_sms">We\'re sending an sms to</string>
+    <string name="verified">Verification successful</string>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/themes_sinchtheme.xml -->
+    <eat-comment/>
+    <style name="SinchTheme" parent="@style/_SinchTheme"/>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/styles_sinchtheme.xml -->
+    <eat-comment/>
+    <style name="SpinnerSinchTheme" parent="android:Widget.Holo.Light.Spinner">
+      <item name="android:background">@drawable/sinchtheme_spinner_background_holo_light</item>
+      <item name="android:dropDownSelector">@drawable/sinchtheme_list_selector_holo_light</item>
+  </style>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values/themes_sinchtheme.xml -->
+    <eat-comment/>
+    <style name="_SinchTheme" parent="android:Theme.Holo.Light.NoActionBar">
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerSinchTheme</item>
+
+  </style>
+</resources>

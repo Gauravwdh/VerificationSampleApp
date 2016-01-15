@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/src/main/res/values-v21/styles_sinchtheme.xml -->
+    <eat-comment/>
+    <style name="SpinnerSinchTheme" parent="android:Widget.Holo.Light.Spinner">
+      <item name="android:background">@drawable/sinchtheme_spinner_background_holo_light</item>
+      <item name="android:dropDownSelector">@drawable/sinchtheme_list_selector_holo_light</item>
+  </style>
+</resources>

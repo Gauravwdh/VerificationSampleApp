@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/libs/sinch-android-verification-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="65b6a8cb4ba101671e3900b727f796937545b64f">
+        <dex dex="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/build/intermediates/pre-dexed/debug/sinch-android-verification-1.1.2-079ac7f1ee99d5ba06ad4d412b7e345d8b15ba09.jar" />
+    </item>
+    <item
+        jar="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-3f7b5248a688a78ef80cd755eb094ef992eb5c61.jar" />
+    </item>
+    <item
+        jar="/Users/gauravwadhwa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-9f90de69005865c12b7c8c3366d7457f4510e7e2.jar" />
+    </item>
+    <item
+        jar="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gauravwadhwa/Downloads/sinch-android-verification-1/samples/VerificationSampleApp/build/intermediates/pre-dexed/debug/classes-92f0ec625a06a760b5085317480b875f9ef0ce18.jar" />
+    </item>
+
+</items>
